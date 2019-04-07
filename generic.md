@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jesse
+title: 
 description: Systems Engineer
 image: assets/images/pic11.jpg
 nav-menu: true
