@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Jesse McCann</h1>
+			<h1>Places I've been.</h1>
 		</header>
 
 <!-- Content -->
