@@ -1,6 +1,7 @@
 ---
 layout: page
 title: History
+image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
