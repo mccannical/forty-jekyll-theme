@@ -16,8 +16,6 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h3 id="content">Technologist</h3>
-<p></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Blackline, Inc. - Systems Administrator</h3>
@@ -25,7 +23,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Applied Minds - IT Manager / Systems Engineer </h3>
-		<p><span class="image left"><img src="https://www.appliedminds.com/images/amlogo.gif" alt="" /></span>Dockerized interal apps. Mentored employees. Python, bash. Gained SECRET clearance.</p>
+		<p><span class="image right"><img src="https://www.appliedminds.com/images/amlogo.gif" alt="" /></span>Dockerized interal apps. Mentored employees. Python, bash. Gained SECRET clearance.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
