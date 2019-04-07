@@ -11,7 +11,7 @@ city: Woodland Hills
 state: CA
 zip_code: 91303
 country: United States of America
-phone: 
+phone: (213) 534-7139
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -33,4 +33,3 @@ markdown: kramdown
 
 sass:
   style: compressed
-
