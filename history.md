@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Job
 description: History
 image: assets/images/pic03.jpg
 nav-menu: true
