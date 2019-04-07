@@ -16,8 +16,8 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">jesse@mccannical.com</h2>
-<p>IT Manager | Cloud Infrastructure | AWS Solutions Architect Associate | SysOps | Linux</p>
+<h2 id="content">IT Manager | Cloud Infrastructure | AWS Solutions Architect Associate | SysOps | Linux</h2>
+<p></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Blackline, Inc. - Systems Administrator</h3>
