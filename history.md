@@ -1,7 +1,7 @@
 ---
 layout: page
-title: History
-description: resume
+title: 
+description: History
 image: assets/images/pic03.jpg
 nav-menu: true
 ---
