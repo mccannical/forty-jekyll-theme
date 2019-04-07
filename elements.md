@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: History
 nav-menu: true
 ---
 
