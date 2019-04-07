@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">IT Manager | Cloud Infrastructure | AWS Solutions Architect Associate | SysOps | Linux</h2>
+<h3 id="content">Technologist</h3>
 <p></p>
 <div class="row">
 	<div class="6u 12u$(small)">
