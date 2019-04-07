@@ -5,7 +5,7 @@ landing-title: 'This is me.'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
 
