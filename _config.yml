@@ -1,6 +1,6 @@
 # site settings
-title: Jesse
-subtitle: you found me
+title: you found me
+subtitle: jesse
 email: jesse@mccannical.com
 description: Contact page for Jesse McCann
 baseurl: # the subpath of your site, e.g. /blog
