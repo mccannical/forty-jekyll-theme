@@ -47,9 +47,7 @@ nav-menu: true
                         <dd>Windows stuff. Of course :)</dd>
                     <dt>Javascript</dt>
                         <dd>Using javascript more and more to work with Node.js, Hubot, and  BotKit. </dd>
-                </dl>
-        </div>
-
+  
 	<div class="6u$ 12u$(small)">
 		<h3>Platform Integrations</h3>
 		<p>Recently I've begun learning about Integration Platforms as a Service. I've used a few products now: </p>
