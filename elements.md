@@ -33,9 +33,7 @@ nav-menu: true
     </dl>
 
 </p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Coding</h3>
+<h3>Coding</h3>
             <p>I've been coding since high school where i took a C++ class that got me hooked on computers. That was a whle ago and i've never stopped learning.</p>
                 <dl>
                     <h4>Languages</h4>
@@ -61,17 +59,13 @@ nav-menu: true
         </d1>
 
     </div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Cloud Engineering</h3>
+<h3>Cloud Engineering</h3>
 		<p>This is my favorite part of IT. It combines a deep understanding of how systems work together, 
         and what systems make up other systems. The more i work in this realm the more i realize that
         IT is really about managing tightly couple, complex systems. I could list lots of technologies
         here, but they change so often. Thats the point, my greatest skill are arent some new technology 
         or language. My greatest strengths are my resiliency, adaptabilty, and being very good at learning quickly. 
         </p>
-	</div>
-       </div>
       </div>
    </section>
 </div>
