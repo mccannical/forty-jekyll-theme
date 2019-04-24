@@ -46,8 +46,7 @@ nav-menu: true
                     <dt>Javascript</dt>
                         <dd>Using javascript more and more to work with Node.js, Hubot, and  BotKit. </dd>
   
-	<div class="6u$ 12u$(small)">
-		<h3>Platform Integrations</h3>
+	<h3>Platform Integrations</h3>
 		<p>Recently I've begun learning about Integration Platforms as a Service. I've used a few products now: </p>
         <dl>
                 <d1><dt>Boomi</dt>
@@ -62,6 +61,3 @@ nav-menu: true
         here, but they change so often. Thats the point, my greatest skill are arent some new technology 
         or language. My greatest strengths are my resiliency, adaptabilty, and being very good at learning quickly. 
         </p>
-      </div>
-   </section>
-</div>
