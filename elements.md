@@ -36,7 +36,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Coding</h3>
-            <p>I've been coding since high school where i took a C++ class that got me hooked on computers. That was a whle ago and since i've come a ways. </p>
+            <p>I've been coding since high school where i took a C++ class that got me hooked on computers. That was a whle ago and i've never stopped learning.</p>
                 <dl>
                     <h4>Languages</h4>
                     <dt>Python</dt>
@@ -46,7 +46,7 @@ nav-menu: true
                     <dt>PowerShell</dt>
                         <dd>Windows stuff. Of course :)</dd>
                     <dt>Javascript</dt>
-                        <dd>Using javascript more and more to work with Node.js, Hubot, and  BotKit</dd>
+                        <dd>Using javascript more and more to work with Node.js, Hubot, and  BotKit. </dd>
                 </dl>
         </div>
 
