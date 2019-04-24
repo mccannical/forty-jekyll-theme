@@ -41,7 +41,7 @@ nav-menu: true
                     <h4>Languages</h4>
                     <dt>Python</dt>
                         <dd>Using the API of our SaaS Chat, built a system to sync active directory groups to messages teams.</dd>
-                    <dt>Bash</dd>
+                    <dt>Bash</dt>
                         <dd>Basically everything, unless it get complicated then Python!</dt>
                     <dt>PowerShell</dt>
                         <dd>Windows stuff. Of course :)</dd>
