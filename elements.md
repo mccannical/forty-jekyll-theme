@@ -18,7 +18,7 @@ nav-menu: true
 <h2 id="content">Infrastructure</h2>
 <p>
     <dl>
-        <dt>Virtualization</dt>
+        <dt>Compute</dt>
         <dd>
              <p>Server infrastructure is the backbone of all IT shops. Whether you are 
                  bare-metal or virtual I have tons of experience using the top hypervisors: 
