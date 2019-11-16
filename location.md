@@ -1,7 +1,7 @@
 ---
 title: Location
 layout: landing
-description: 'Los Angeles'
-image: assets/images/pic07.jpg
+description: 'Princeton, NJ'
+image: assets/images/new-jersey.jpg
 nav-menu: true
 ---
