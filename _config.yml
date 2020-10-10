@@ -7,8 +7,8 @@ baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Jesse McCann
 street_address: 
-city: Woodland Hills
-state: CA
+city: Philadelphia
+state: PA
 zip_code: 91303
 country: United States of America
 phone: (213) 534-7139
@@ -21,12 +21,12 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url: https://github.com/mccannical
-gitlab_url: https://gitlab.com/u/neogimp
+gitlab_url: https://gitlab.com/u/mccannical
 instagram_url: https://www.instagram.com/j_run/?hl=en
 linkedin_url: https://www.linkedin.com/in/jessemccann
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/the_jessemccann
+twitter_url: 
 
 # build settings
 markdown: kramdown
